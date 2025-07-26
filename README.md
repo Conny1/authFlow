@@ -20,7 +20,7 @@
 
 ## 📁 Folder Structure
 
-- |**project-root**/
+ -**project-root**/
 - │
 - |client/ # React frontend
 - ├── src/
