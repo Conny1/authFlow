@@ -20,25 +20,25 @@
 
 ## 📁 Folder Structure
 
-project-root/
--│
-- client/ # React frontend
+- |**project-root**/
+- │
+- |client/ # React frontend
 - ├── src/
 - │ │ ├── components/ # Reusable UI components (e.g., LoginForm, SignupForm)
--│ │ ├── pages/ # Pages (auth, Home)
--│ │ ├── App.js
--│ │ └── index.js
--│
--├── api/ # Node.js backend
--│ ├── controllers/ # User logic (register, login)
--│ ├── models/ # Mongoose User schema
--│ ├── routes/ # API routes (user.routes.js)
--│ ├── middleware/ # JWT auth middleware
--│ ├── config/ # DB connection
--| |── app.js # server configs
--│ └── index.js # Main entry point
--│
--└── 
+- │ │ ├── pages/ # Pages (auth, Home)
+- │ │ ├── App.js
+- │ │ └── index.js
+- │
+- ├── api/ # Node.js backend
+- │ ├── controllers/ # User logic (register, login)
+- │ ├── models/ # Mongoose User schema
+- │ ├── routes/ # API routes (user.routes.js)
+- │ ├── middleware/ # JWT auth middleware
+- │ ├── config/ # DB connection
+- | |── app.js # server configs
+- │ └── index.js # Main entry point
+- │
+- └── 
 
 
 ---
