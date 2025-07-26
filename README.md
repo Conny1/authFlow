@@ -22,7 +22,7 @@
 
 project-root/
 -│
--├── client/ # React frontend
+- client/ # React frontend
 -│ ├── src/
 -│ │ ├── components/ # Reusable UI components (e.g., LoginForm, SignupForm)
 -│ │ ├── pages/ # Pages (auth, Home)
