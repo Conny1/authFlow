@@ -24,7 +24,7 @@ project-root/
 -│
 - client/ # React frontend
 - ├── src/
--│ │ ├── components/ # Reusable UI components (e.g., LoginForm, SignupForm)
+- │ │ ├── components/ # Reusable UI components (e.g., LoginForm, SignupForm)
 -│ │ ├── pages/ # Pages (auth, Home)
 -│ │ ├── App.js
 -│ │ └── index.js
